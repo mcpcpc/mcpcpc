@@ -6,4 +6,4 @@
 - 💬 Ask me about _anything_!
 - 📫 How to reach me: Freenode `#kisslinux` or `#kirc` channels.
 
-<img align="left" alt="mcpcpc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcpcpc&show_icons=true&hide_border=true" />
+<img align="left" alt="mcpcpc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcpcpc&show_icons=true&hide_border=true&hide_title=true" />
