@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Michael Czigler! 🐧
 
 - 🔭 I’m currently working on [kirc](https://github.com/mcpcpc/kirc), a tiny IRC client written in POSIX C99.
 - 🌱 I’m currently learning _the "ins and outs" of the C programming language_.
